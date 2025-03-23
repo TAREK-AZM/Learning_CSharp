@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleTpsApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d83ee0859b527238bb70e38ced71d15c62286458")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d81ac25e252a9d7f86c3e764034cc0397de3744")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleTpsApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleTpsApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
